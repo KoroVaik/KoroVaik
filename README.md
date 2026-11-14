@@ -16,6 +16,8 @@ I have 6.5+ years of commercial C#/.NET experience, most of it in test automatio
 
 - [KnowledgeBase](https://github.com/KoroVaik/KnowledgeBase): a personal notes app. ASP.NET Core 8 API and worker, React + TypeScript, PostgreSQL, Docker, GitHub Actions CI, 66 xUnit tests. A background worker turns uploaded PDFs into Markdown notes with a local AI model. It shows I can build and ship a full-stack .NET app with a job queue and CI.
 - [ClaudeDevKit](https://github.com/KoroVaik/ClaudeDevKit): Claude Code plugins that give AI agents a fixed process: plan, code, review, test, docs. It includes a docs checker, a linter and 344 Python tests. It shows how I use AI coding agents with review and testing around them.
+- [Zhratva (showcase)](https://github.com/KoroVaik/Zhratva-showcase): my main .NET project, a phone app that picks a daily lunch pair from real recipes, with a separate AI job worker. The code is private; the showcase covers the product, architecture and testing approach.
+- [Prishch (showcase)](https://github.com/KoroVaik/Prishch-showcase): a Unity project with real-time soft-body skin physics on its own thread, for PC and Android. The code is private; the showcase covers the engine design and how it is verified.
 
 ## Experience
 
